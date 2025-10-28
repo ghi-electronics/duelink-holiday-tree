@@ -22,9 +22,10 @@ You can now drag any of the images below into the IDE to try them.
 Demo (Drag into MicroBlocks) | Functionality
 --- | ---
 ![Random Lights](./code/random.png) | Blink the LEDs Randomly.
-![Pulsar](./code/pulsar.png) | The top start omits like a pulsar star.
+![Pulsar](./code/pulsar.png) | The top emitting star.
 ![shooting star](./code/shooting-star.png) | Lights go up the tree, all the way to the star!
 ![Spaceship](./code/spaceship.png) | Rotate on all sides and make a buzzing noise.
+![Twinkle](./code/twinkle.png) | Some "Twinkle" notes!
 
 
 Are you ready to make your own demos?
