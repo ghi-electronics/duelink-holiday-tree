@@ -19,14 +19,22 @@ Note: It is easier to have 2 browser windows open simultaneously to drag the lib
 
 ## Example Patterns
 
+Demo | Function
+--- | ---
+![Random Lights](./code/random.png) | Blink the LEDs Randomly!
+![Random Lights](./code/random.png) | Example 2
+![Random Lights](./code/random.png) | Example 4
+![Random Lights](./code/random.png) | Example 5
+![Random Lights](./code/random.png) | Example 6
+![Random Lights](./code/random.png) | Example 7
+
+
 <table>
 <td width='50%'>
-    ![Random Lights](./code/random.png)
-    Blink the LEDs Randomly!
+    
 </td>
 <td width='50%'>
-    ![Random Lights](./code/random.png)
-    Example 2
+    
 </td>
 </table>
 
