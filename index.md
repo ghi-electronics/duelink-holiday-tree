@@ -15,3 +15,18 @@ Now, go ahead and drag any of the block below into MicroBlocks!
 ---
 
 ## Example Programs
+
+![Random Lights](./code/random.png)
+
+
+---
+
+## What is DUELink?
+
+![DUELink Intro](./img/duelink-intro.png)
+
+
+DUELink revolutionizes electronics innovation with a vast ecosystem of sensor, actuator, and display modules. Each module is a mini-computer, powered by a smart daisylink that seamlessly integrates with your favorite hardware platform and coding language.
+
+
+[Learn More...](https://www.duelink.com/docs/what-is)
