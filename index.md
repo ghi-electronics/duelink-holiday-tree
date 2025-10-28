@@ -21,12 +21,11 @@ You can now drag any of the images below into the IDE to try them.
 
 Demo (Drag into MicroBlocks) | Functionality
 --- | ---
-![Random Lights](./code/random.png) | Blink the LEDs Randomly!
-![Random Lights](./code/random.png) | Example 2
-![Random Lights](./code/random.png) | Example 4
-![Random Lights](./code/random.png) | Example 5
-![Random Lights](./code/random.png) | Example 6
-![Random Lights](./code/random.png) | Example 7
+![Random Lights](./code/random.png) | Blink the LEDs Randomly.
+![Pulsar](./code/pulsar.png) | The top start omits like a pulsar star.
+![shooting star](./code/shooting-star.png) | Lights go up the tree, all the way to the star!
+![Spaceship](./code/spaceship.png) | Rotate on all sides and make a buzzing noise.
+
 
 Are you ready to make your own demos?
 
