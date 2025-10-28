@@ -10,7 +10,7 @@ To load any of the samples, you need these steps:
 3. Click connect button on the top right corner. Then select the USB option.
 4. You should have one option only but if more than one then select the `DUELink` device.
 5. The connect button you clicked earlier changes to a `DUELink` next to a green connect icon.
-6. Drag [this Tree Library](https://www.duelink.com/code/driver/microblocks/holiday-tree.ubl) into the middle of the MiroBlocks page.
+6. Click and drag [This Tree Library Link](https://www.duelink.com/code/driver/microblocks/holiday-tree.ubl) into the middle of the MiroBlocks page.
 You can now drag any of hte images below into the IDE to try them.
 
 Note: It is easier to have 2 browser windows open simultaneously to drag the library and images. Another option is to save the image/library locally onto your machine then drag them in the browser later!
@@ -18,6 +18,21 @@ Note: It is easier to have 2 browser windows open simultaneously to drag the lib
 ---
 
 ## Example Patterns
+
+<table>
+<td width='50%'>
+    ![Random Lights](./code/random.png)
+    Blink the LEDs Randomly!
+</td>
+<td width='50%'>
+    ![Random Lights](./code/random.png)
+    Example 2
+</td>
+</table>
+
+---
+
+
 
 ![Random Lights](./code/random.png)
 
