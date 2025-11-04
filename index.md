@@ -46,11 +46,14 @@ Learn more about using [MicroBlocks support](https://www.duelink.com/docs/langua
 
 ---
 
-## What is DUELink?
+## Connect with us!
+
+The Holiday Tree is possible because of our DUELink technology. But what is DUELink? Click [here](https://www.duelink.com/docs/what-is) to learn more.
 
 ![DUELink Intro](./img/duelink-intro.png)
 
+Join our newsletter and social channels [here](https://www.duelink.com/news).
 
-DUELink revolutionizes electronics innovation with a vast ecosystem of sensor, actuator, and display modules. Each module is a mini-computer, powered by a smart daisylink that seamlessly integrates with your favorite hardware platform and coding language.
+We are also on the DUELink section on [our forums](https://forums.ghielectronics.com/c/duelink/31)
 
-[Learn More...](https://www.duelink.com/docs/what-is)
+---
