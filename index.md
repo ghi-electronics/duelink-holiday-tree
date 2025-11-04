@@ -21,6 +21,7 @@ You can now drag any of the images below into the IDE to try them.
 
 Demo (Drag into MicroBlocks) | Functionality
 --- | ---
+![Demo](./code/demo.png) | This is hte demo that ships on the tree.
 ![Random Lights](./code/random.png) | Blink the LEDs Randomly.
 ![Pulsar](./code/pulsar.png) | The top emitting star.
 ![shooting star](./code/shooting-star.png) | Lights go up the tree, all the way to the star!
