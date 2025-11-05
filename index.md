@@ -35,12 +35,12 @@ Demo (Drag into MicroBlocks) | Functionality
 
 Demos (Drag into MicroBlocks) | Functionality
 --- | ---
-<img src="./code/random.png" alt="random" width="200" height="300"> | Simplest program to blink the LEDs Randomly.
-<img src="./code/pulsar.png" alt="pulsar" width="200" height="300"> | The top emitting star is very bright! Just try it and see for yourself.
-<img src="./code/shooting-star.png" alt="shooting-star" width="200" height="300"> | Lights go up the tree, all the way to the star! Change the default color to whatever you desire.
-<img src="./code/spaceship.png" alt="spaceship" width="200" height="300"> | Rotate on all sides and make a buzzing noise. We call this a tree spaceship!
-<img src="./code/twinkle.png" alt="Twinkle" width="200" height="300"> | Some "Twinkle" notes!
-<img src="./code/demo.png" alt="demo" width="200" height="300"> | This is the demo that ships on the tree. It plays Jingle Bells when it first starts and then some flashing lights. Press the LDR button to jingle again.
+<img src="./code/random.png" alt="random" height="300"> | Simplest program to blink the LEDs Randomly.
+<img src="./code/pulsar.png" alt="pulsar" height="300"> | The top emitting star is very bright! Just try it and see for yourself.
+<img src="./code/shooting-star.png" alt="shooting-star"  height="300"> | Lights go up the tree, all the way to the star! Change the default color to whatever you desire.
+<img src="./code/spaceship.png" alt="spaceship" height="300"> | Rotate on all sides and make a buzzing noise. We call this a tree spaceship!
+<img src="./code/twinkle.png" alt="Twinkle" height="300"> | Some "Twinkle" notes!
+<img src="./code/demo.png" alt="demo" height="300"> | This is the demo that ships on the tree. It plays Jingle Bells when it first starts and then some flashing lights. Press the LDR button to jingle again.
 
 Are you ready to make your own demos? The demos work as is but you can modify the blocks to change the tree behavior. Congratulations, you are now a coder!
 
