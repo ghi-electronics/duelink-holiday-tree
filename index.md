@@ -24,13 +24,12 @@ This page is a `Getting Started` page for `DUELink Holiday Tree`. It includes ma
 
 Demo (Drag into MicroBlocks) | Functionality
 --- | ---
-![Demo](./code/demo.png) | This is the demo that ships on the tree.
-![Random Lights](./code/random.png) | Blink the LEDs Randomly.
-![Pulsar](./code/pulsar.png) | The top emitting star.
-![shooting star](./code/shooting-star.png) | Lights go up the tree, all the way to the star!
-![Spaceship](./code/spaceship.png) | Rotate on all sides and make a buzzing noise.
+![Random Lights](./code/random.png) | Simplest program to blink the LEDs Randomly.
+![Pulsar](./code/pulsar.png) | The top emitting star is very bright! Just try it and see for yourself.
+![shooting star](./code/shooting-star.png) | Lights go up the tree, all the way to the star! Change the default color to whatever you desire.
+![Spaceship](./code/spaceship.png) | Rotate on all sides and make a buzzing noise. We call this a tree spaceship!
 ![Twinkle](./code/twinkle.png) | Some "Twinkle" notes!
-
+![Demo](./code/demo.png) | This is the demo that ships on the tree. It plays Jingle Bells when it first starts and then some flashing lights. Press the LDR button to jingle again.
 
 Are you ready to make your own demos? The demos work as is but you can modify the blocks to change the tree behavior. Congratulations, you are now a coder!
 
