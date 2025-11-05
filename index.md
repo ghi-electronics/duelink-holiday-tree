@@ -22,6 +22,22 @@ This page is a `Getting Started` page for `DUELink Holiday Tree`. It includes ma
 
 ## Example Blocks
 
+<details>
+  <summary>Random Lights</summary>
+  This is the simplest program to blink the LEDs Randomly with different colors.
+  ![Random Lights](./code/random.png)
+</details>
+
+
+<details>
+  <summary>Random Lights2</summary>
+  
+  This is the simplest program to blink the LEDs Randomly with different colors.
+  ![Random Lights](./code/random.png)
+
+</details>
+
+
 Demo (Drag into MicroBlocks) | Functionality
 --- | ---
 ![Random Lights](./code/random.png) | Simplest program to blink the LEDs Randomly.
