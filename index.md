@@ -24,12 +24,12 @@ This page is a `Getting Started` page for `DUELink Holiday Tree`. It includes ma
 
 Demos (Drag into MicroBlocks) | Functionality
 --- | ---
+<img src="./code/demo.png" alt="demo" height="250"> | This is default demo. Press the LDR button to jingle again.
 <img src="./code/random.png" alt="random" height="250"> | Simplest program to blink the LEDs Randomly.
-<img src="./code/pulsar.png" alt="pulsar" height="250"> | The top emitting star is very bright! Just try it and see for yourself.
-<img src="./code/shooting-star.png" alt="shooting-star"  height="250"> | Lights go up the tree, all the way to the star! Change the default color to whatever you desire.
+<img src="./code/pulsar.png" alt="pulsar" height="250"> | The top emitting star is very bright!
+<img src="./code/shooting-star.png" alt="shooting-star"  height="250"> | Lights go up the tree, all the way to the star!
 <img src="./code/spaceship.png" alt="spaceship" height="250"> | Rotate on all sides and make a buzzing noise. We call this a tree spaceship!
 <img src="./code/twinkle.png" alt="Twinkle" height="250"> | Some "Twinkle" notes!
-<img src="./code/demo.png" alt="demo" height="250"> | This is the demo that ships on the tree. It plays Jingle Bells when it first starts and then some flashing lights. Press the LDR button to jingle again.
 
 Are you ready to make your own demos? The demos work as is but you can modify the blocks to change the tree behavior. Congratulations, you are now a coder!
 
@@ -79,12 +79,5 @@ Video | Description
 ---|---
 [![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/hqdefault.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA) | Designing the Holiday Tree
 [![Manufacturing the tree](https://img.youtube.com/vi/2INa95NzI_o/hqdefault.jpg)](https://www.youtube.com/watch?v=2INa95NzI_o) | Manufacturing the Holiday Tree
-
-
-Troubleshooting the Holiday Tree
-
-[![Troubleshooting the tree](https://img.youtube.com/vi/QhicKo7V5Vs/hqdefault.jpg)](https://www.youtube.com/watch?v=QhicKo7V5Vs)
-
-The Cutest Holiday Tree
-
-[![The cutest tree](https://img.youtube.com/vi/xw6P_5qS9cI/hqdefault.jpg)](https://www.youtube.com/watch?v=xw6P_5qS9cI)
+[![Troubleshooting the tree](https://img.youtube.com/vi/QhicKo7V5Vs/hqdefault.jpg)](https://www.youtube.com/watch?v=QhicKo7V5Vs) | Troubleshooting the Holiday Tree
+[![The cutest tree](https://img.youtube.com/vi/xw6P_5qS9cI/hqdefault.jpg)](https://www.youtube.com/watch?v=xw6P_5qS9cI) | The Cutest Holiday Tree
