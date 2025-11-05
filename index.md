@@ -1,4 +1,4 @@
-![Holiday Tree](./img/duelinklogo.png)
+![Logo](./img/duelinklogo.png)
 
 # DUELink Holiday Tree
 
