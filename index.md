@@ -75,13 +75,11 @@ The board is now loaded with MicroBlocks firmware, which is what the MicroBlocks
 
 Curious on how products are developed? Here are some videos of us working on the design:
 
-Designing the Holiday Tree
+Video | Description
+---|---
+[![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/hqdefault.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA) | Designing the Holiday Tree
+[![Manufacturing the tree](https://img.youtube.com/vi/2INa95NzI_o/hqdefault.jpg)](https://www.youtube.com/watch?v=2INa95NzI_o) | Manufacturing the Holiday Tree
 
-[![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/hqdefault.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA)
-
-Manufacturing the Holiday Tree
-
-[![Manufacturing the tree](https://img.youtube.com/vi/2INa95NzI_o/hqdefault.jpg)](https://www.youtube.com/watch?v=2INa95NzI_o)
 
 Troubleshooting the Holiday Tree
 
