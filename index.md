@@ -73,20 +73,20 @@ The board is now loaded with MicroBlocks firmware, which is what the MicroBlocks
 
 ## The Making!
 
-Curious on how tings are developed? Here are some videos of us working on the design.
+Curious on how products are developed? Here are some videos of us working on the design:
 
-### Designing the Holiday Tree
+Designing the Holiday Tree
 
 [![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/hqdefault.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA)
 
-### Manufacturing the Holiday Tree
+Manufacturing the Holiday Tree
 
-[![Manufacturing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/2INa95NzI_o.jpg)](https://www.youtube.com/watch?v=2INa95NzI_o)
+[![Manufacturing the tree](https://img.youtube.com/vi/2INa95NzI_o/hqdefault.jpg)](https://www.youtube.com/watch?v=2INa95NzI_o)
 
-### Troubleshooting the Holiday Tree
+Troubleshooting the Holiday Tree
 
 [![Troubleshooting the tree](https://img.youtube.com/vi/QhicKo7V5Vs/hqdefault.jpg)](https://www.youtube.com/watch?v=QhicKo7V5Vs)
 
-### The Cutest Holiday Tree
+The Cutest Holiday Tree
 
 [![The cutest tree](https://img.youtube.com/vi/xw6P_5qS9cI/hqdefault.jpg)](https://www.youtube.com/watch?v=xw6P_5qS9cI)
