@@ -50,8 +50,6 @@ Learn more about using [MicroBlocks support](https://www.duelink.com/docs/langua
 
 The Holiday Tree is possible because of our DUELink technology. But what is DUELink? Click [here](https://www.duelink.com/docs/what-is) to learn more.
 
-![DUELink Intro](./img/duelink-intro.png)
-
 Join our newsletter and social channels [here](https://www.duelink.com/news).
 
 We are also on the DUELink section on [our forums](https://forums.ghielectronics.com/c/duelink/31)
