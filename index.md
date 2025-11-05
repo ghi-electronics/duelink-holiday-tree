@@ -68,3 +68,6 @@ If MicroBlocks software is not seeing your device, you need to follow these step
 5. Click `Close`
 
 The board is now loaded with MicroBlocks firmware, which is what the MicroBlocks software uses to communicate with the board.
+
+
+[![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/0.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA)
