@@ -24,12 +24,12 @@ This page is a `Getting Started` page for `DUELink Holiday Tree`. It includes ma
 
 Demos (Drag into MicroBlocks) | Functionality
 --- | ---
-<img src="./code/random.png" alt="random" height="300"> | Simplest program to blink the LEDs Randomly.
-<img src="./code/pulsar.png" alt="pulsar" height="300"> | The top emitting star is very bright! Just try it and see for yourself.
-<img src="./code/shooting-star.png" alt="shooting-star"  height="300"> | Lights go up the tree, all the way to the star! Change the default color to whatever you desire.
-<img src="./code/spaceship.png" alt="spaceship" height="300"> | Rotate on all sides and make a buzzing noise. We call this a tree spaceship!
-<img src="./code/twinkle.png" alt="Twinkle" height="300"> | Some "Twinkle" notes!
-<img src="./code/demo.png" alt="demo" height="300"> | This is the demo that ships on the tree. It plays Jingle Bells when it first starts and then some flashing lights. Press the LDR button to jingle again.
+<img src="./code/random.png" alt="random" max-height="300"> | Simplest program to blink the LEDs Randomly.
+<img src="./code/pulsar.png" alt="pulsar" max-height="300"> | The top emitting star is very bright! Just try it and see for yourself.
+<img src="./code/shooting-star.png" alt="shooting-star"  max-height="300"> | Lights go up the tree, all the way to the star! Change the default color to whatever you desire.
+<img src="./code/spaceship.png" alt="spaceship" max-height="300"> | Rotate on all sides and make a buzzing noise. We call this a tree spaceship!
+<img src="./code/twinkle.png" alt="Twinkle" max-height="300"> | Some "Twinkle" notes!
+<img src="./code/demo.png" alt="demo" max-height="300"> | This is the demo that ships on the tree. It plays Jingle Bells when it first starts and then some flashing lights. Press the LDR button to jingle again.
 
 Are you ready to make your own demos? The demos work as is but you can modify the blocks to change the tree behavior. Congratulations, you are now a coder!
 
@@ -69,12 +69,24 @@ If MicroBlocks software is not seeing your device, you need to follow these step
 
 The board is now loaded with MicroBlocks firmware, which is what the MicroBlocks software uses to communicate with the board.
 
-<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+---
 
-[![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/0.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA)
+## The Making!
 
-[![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/mqdefault.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA)
+Curious on how tings are developed? Here are some videos of us working on the design.
 
-[![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/default.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA)
+### Designing the Holiday Tree
 
 [![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/hqdefault.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA)
+
+### Manufacturing the Holiday Tree
+
+[![Manufacturing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/2INa95NzI_o.jpg)](https://www.youtube.com/watch?v=2INa95NzI_o)
+
+### Troubleshooting the Holiday Tree
+
+[![Troubleshooting the tree](https://img.youtube.com/vi/QhicKo7V5Vs/hqdefault.jpg)](https://www.youtube.com/watch?v=QhicKo7V5Vs)
+
+### The Cutest Holiday Tree
+
+[![The cutest tree](https://img.youtube.com/vi/xw6P_5qS9cI/hqdefault.jpg)](https://www.youtube.com/watch?v=xw6P_5qS9cI)
