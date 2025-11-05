@@ -22,20 +22,6 @@ This page is a `Getting Started` page for `DUELink Holiday Tree`. It includes ma
 
 ## Example Blocks
 
-<details>
-  <summary>Random Lights</summary>
-  This is the simplest program to blink the LEDs Randomly with different colors.
-  ![Random Lights](./code/random.png)
-</details>
-
-
-<details>
-  <summary>Random Lights2</summary>
-  
-  This is the simplest program to blink the LEDs Randomly with different colors.
-  ![Random Lights](./code/random.png)
-
-</details>
 
 
 Demo (Drag into MicroBlocks) | Functionality
@@ -46,6 +32,7 @@ Demo (Drag into MicroBlocks) | Functionality
 ![Spaceship](./code/spaceship.png) | Rotate on all sides and make a buzzing noise. We call this a tree spaceship!
 ![Twinkle](./code/twinkle.png) | Some "Twinkle" notes!
 ![Demo](./code/demo.png) | This is the demo that ships on the tree. It plays Jingle Bells when it first starts and then some flashing lights. Press the LDR button to jingle again.
+<img src="./code/demo.png" alt="demo" width="200" height="300"> | test
 
 Are you ready to make your own demos? The demos work as is but you can modify the blocks to change the tree behavior. Congratulations, you are now a coder!
 
@@ -55,7 +42,7 @@ Are you ready to make your own demos? The demos work as is but you can modify th
 
 If you want to learn coding, the easy way, MicroBlocks is a blocks language that makes it easy for beginners (9 years to adults) to program DUELink boards. A huge benefit of MicroBlocks is that it is live and interactive: Users can click commands to see what they do and they can test their scripts as they work.
 
-![MicroBlcoks](./img/microblocks-sample.png)
+![MicroBlocks](./img/microblocks-sample.png)
 
 Learn more about using [MicroBlocks support](https://www.duelink.com/docs/language/microblocks) on DUELink products.
 
