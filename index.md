@@ -71,13 +71,13 @@ The board is now loaded with MicroBlocks firmware, which is what the MicroBlocks
 
 ---
 
-## The Making!
+## The "Making of" Videos
 
-Curious on how products are developed? Here are some videos of us working on the design:
+Curious on how products are developed? Here are some videos of us working on this design:
 
 Video | Description
 ---|---
-[![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/hqdefault.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA) | Designing the Holiday Tree
-[![Manufacturing the tree](https://img.youtube.com/vi/2INa95NzI_o/hqdefault.jpg)](https://www.youtube.com/watch?v=2INa95NzI_o) | Manufacturing the Holiday Tree
-[![Troubleshooting the tree](https://img.youtube.com/vi/QhicKo7V5Vs/hqdefault.jpg)](https://www.youtube.com/watch?v=QhicKo7V5Vs) | Troubleshooting the Holiday Tree
-[![The cutest tree](https://img.youtube.com/vi/xw6P_5qS9cI/hqdefault.jpg)](https://www.youtube.com/watch?v=xw6P_5qS9cI) | The Cutest Holiday Tree
+[![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/hqdefault.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA) | Designing the Holiday Tree. Going from an idea to an actual product.
+[![Manufacturing the tree](https://img.youtube.com/vi/2INa95NzI_o/hqdefault.jpg)](https://www.youtube.com/watch?v=2INa95NzI_o) | Manufacturing the Holiday Tree. Going from a raw PCB to a working product.
+[![Troubleshooting the tree](https://img.youtube.com/vi/QhicKo7V5Vs/hqdefault.jpg)](https://www.youtube.com/watch?v=QhicKo7V5Vs) | Troubleshooting the Holiday Tree. Things don't usually just work teh first time!
+[![The cutest tree](https://img.youtube.com/vi/xw6P_5qS9cI/hqdefault.jpg)](https://www.youtube.com/watch?v=xw6P_5qS9cI) | The Cutest Holiday Tree. by Selena. How Ghizzy came about, and partnering up with MicroBlocks.
