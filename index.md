@@ -69,5 +69,12 @@ If MicroBlocks software is not seeing your device, you need to follow these step
 
 The board is now loaded with MicroBlocks firmware, which is what the MicroBlocks software uses to communicate with the board.
 
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
 
 [![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/0.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA)
+
+[![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/mqdefault.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA)
+
+[![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/default.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA)
+
+[![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/hqdefault.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA)
