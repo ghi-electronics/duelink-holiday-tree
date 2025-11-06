@@ -9,7 +9,7 @@ This page is a `Getting Started` page for `DUELink Holiday Tree`. The full produ
 Don't have a DUELink Holiday Tree yet? Get yours Today!<br>
 <a href="https://www.amazon.com/dp/B0FY72K8NW?maas=maas_adg_AD869D7B02A65ED7E59E323E2386638C_afap_abs&ref_=aa_maas&tag=maas" target="_blank"><img src="./img/amazon-btn.png" alt="Amazon button"></a>
 
-Plug your tree using the included USB cable and enjoy the preloaded demo. Then you can try any of the examples below, as is, or **change them** any way you like! 
+Plug your tree using the included USB cable and enjoy the preloaded demo. Then you can try any of the examples below, as is or **change them** any way you like! 
 
 
 To load a project: **Click** ➡ **Connect** ➡ **Run**!
