@@ -8,27 +8,23 @@ This page is a `Getting Started` page for `DUELink Holiday Tree`. The full produ
 
 Plug it your tree and enjoy the preloaded demo. Then you can try any of the examples below, as is, or **change them** any way you like! 
 
-To load a project: Click → Connect → Run!
+To load a project: Click ➡ → Connect ➡ → Run!
 
-1. **Click** on one of the links below to load the desired project into MicroBlocks. We explain what MicroBlocks is later on this page.
+1. **Click** on one of the project links below to load it into MicroBlocks. We explain what MicroBlocks is later on this page.
 2. Click **Connect** on the top right corner. Then select the `USB` option. From the new window, select `DUELink`. 
     2. While not likely to happen, if you do not see a `DUELink` device then you need to reload the MicroBlocks firmware. This is explained later on this page.
-3. Click the **Run** triangle and enjoy!
+3. Click the **Run** triangle ▶  and enjoy!
 
-Video | Project Link | Functionality
+🎉Congratulations, you are now a coder!
+
+📽 Video ▶ | Project Link | Functionality
 --- | --- | ---
-[![Designing the tree](https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg)](https://www.youtube.com/watch?v=LGzNn5Sy9r0) | [Default Project Demo](https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/demo.ubp) | This is default project demo. Press the LDR button to jingle again.
-[![Designing the tree](https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg)](https://www.youtube.com/watch?v=LGzNn5Sy9r0) | [Default Project Demo](https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/demo.ubp) | This is default project demo. Press the LDR button to jingle again.
-
-
-<iframe width="720" height="576" src="https://www.youtube.com/embed/LGzNn5Sy9r0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | [Default Project Demo](https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/demo.ubp) | This is default project demo. Press the LDR button to jingle again.
-
-<img src="./code/demo.png" alt="demo" height="250"> | This is default demo. Press the LDR button to jingle again.
-<img src="./code/random.png" alt="random" height="250"> | Simplest program to blink the LEDs Randomly.
-<img src="./code/pulsar.png" alt="pulsar" height="250"> | The top emitting star is very bright!
-<img src="./code/shooting-star.png" alt="shooting-star"  height="250"> | Lights go up the tree, all the way to the star!
-<img src="./code/spaceship.png" alt="spaceship" height="250"> | Rotate on all sides and make a buzzing noise. We call this a tree spaceship!
-<img src="./code/twinkle.png" alt="Twinkle" height="250"> | Some "Twinkle" notes!
+[![Default Project Demo](https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg)](https://www.youtube.com/watch?v=LGzNn5Sy9r0) | [Default Project Demo](https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/demo.ubp) | This is default project demo. Press the LDR button to jingle again.
+[![Random Light](https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg)](https://www.youtube.com/watch?v=LGzNn5Sy9r0) | [Random Lightshow](https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/random.ubp) | Simplest program to blink the LEDs Randomly.
+[![Pulsar](https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg)](https://www.youtube.com/watch?v=LGzNn5Sy9r0) | [Pulsating Star](https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/pulsar.ubp)  | The top emitting star is very bright!
+[![Shooting Star](https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg)](https://www.youtube.com/watch?v=LGzNn5Sy9r0) | [Shooting Star](https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/shooting-star.ubp) | Lights go up the tree, all the way to the star!
+[![Spaceship](https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg)](https://www.youtube.com/watch?v=LGzNn5Sy9r0) | [Spaceship](https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/spaceship.ubp) | Rotate on all sides and make a buzzing noise. We call this a tree spaceship!
+[![Twinkle](https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg)](https://www.youtube.com/watch?v=LGzNn5Sy9r0) | [Twinkle](https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/Twinkle.ubp) | Some "Twinkle" notes!
 
 ---
 
