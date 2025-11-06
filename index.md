@@ -8,7 +8,7 @@ This page is a `Getting Started` page for `DUELink Holiday Tree`. The full produ
 
 <p style="text-align:center;">
 Don't have a DUELink Holiday Tree yet? Get yours Today!<br>
-<a href="https://www.amazon.com/dp/B0FY72K8NW?maas=maas_adg_AD869D7B02A65ED7E59E323E2386638C_afap_abs&ref_=aa_maas&tag=maas" target="_blank"><img src="./img/amazon-btn.png" alt="Amazon button"></a>
+<a href="https://www.amazon.com/dp/B0FY72K8NW?maas=maas_adg_AD869D7B02A65ED7E59E323E2386638C_afap_abs&ref_=aa_maas&tag=maas" target="_blank"><img src="./img/amazon-btn.png" alt="Amazon button" width="500"></a>
 </p>
 
 
