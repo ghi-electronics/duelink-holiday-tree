@@ -2,21 +2,17 @@
 
 # DUELink Holiday Tree
 
-This is a `Getting Started` page for `DUELink Holiday Tree`.
-
 ![Holiday Tree](./img/sptree-b-1.png)
 
-This page is a `Getting Started` page for `DUELink Holiday Tree`. It includes many demo programs/patterns that you can load onto it. You can see the full product details on the product page on the DUELink website [here](https://www.duelink.com/docs/products/sptree-b). To load any of the demos, or to make your own, you need these steps:
+This page is a `Getting Started` page for `DUELink Holiday Tree`. The full product details are [here](https://www.duelink.com/docs/products/sptree-b) on the DUELink website. 
 
-1. Plug in the tree to your PC using a USB cable.
-2. Go to [https://microblocks.fun/run/microblocks.html](https://microblocks.fun/run/microblocks.html). You will need to use `Edge` or `Chrome` Internet browsers.
-3. Click `Connect` button on the top right corner. Then select the `USB` option.
-4. You should have one option only but if more than one then select the `DUELink` device. While not likely to happen, if you do not see a `DUELink` device then you need to reload the MicroBlocks firmware. This is explained at the bottom of this page.
-5. The connect button you clicked earlier changes to a `DUELink` next to a green connect icon.
-6. Click and drag [This Tree Library Link](https://www.duelink.com/code/driver/microblocks/holiday-tree.ubl) into the middle of the MicroBlocks page. If not sure how to drag a link, click the link to save the library on your PC then drag the saved file into the MicroBlocks page.
-7. You can now drag any of the images (Example Blocks) below into the IDE to try them.
+Plug it your tree and enjoy the preloaded demo. Then you can try any of the examples below, as is, or **change them** any way you like! 
 
-**Note:** It is easier to have 2 browser windows open simultaneously to drag the library and images. Another option is to save the image/library locally onto your machine then drag them in the browser later!
+To load a project:
+1. Click on one of the links below to load the desired project into MicroBlocks. We explain what MicroBlocks is later on this page.
+2. Click **Connect** on teh top right corner. Then select the `USB` option.
+3. You should have one option only but if more than one then select the `DUELink` device. While not likely to happen, if you do not see a `DUELink` device then you need to reload the MicroBlocks firmware. This is explained later on this page.
+4. Click the "Run" triangle and enjoy!
 
 ---
 
@@ -24,14 +20,13 @@ This page is a `Getting Started` page for `DUELink Holiday Tree`. It includes ma
 
 Demos (Drag into MicroBlocks) | Functionality
 --- | ---
+[Default Project Demo](https://microblocks.fun/run-pilot/microblocks.html?project=https://holidaytree.duelink.com/code/demo.udp) | This is default project demo. Press the LDR button to jingle again.
 <img src="./code/demo.png" alt="demo" height="250"> | This is default demo. Press the LDR button to jingle again.
 <img src="./code/random.png" alt="random" height="250"> | Simplest program to blink the LEDs Randomly.
 <img src="./code/pulsar.png" alt="pulsar" height="250"> | The top emitting star is very bright!
 <img src="./code/shooting-star.png" alt="shooting-star"  height="250"> | Lights go up the tree, all the way to the star!
 <img src="./code/spaceship.png" alt="spaceship" height="250"> | Rotate on all sides and make a buzzing noise. We call this a tree spaceship!
 <img src="./code/twinkle.png" alt="Twinkle" height="250"> | Some "Twinkle" notes!
-
-Are you ready to make your own demos? The demos work as is but you can modify the blocks to change the tree behavior. Congratulations, you are now a coder!
 
 ---
 
