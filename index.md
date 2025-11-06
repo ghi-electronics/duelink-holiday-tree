@@ -6,9 +6,11 @@
 
 This page is a `Getting Started` page for `DUELink Holiday Tree`. The full product details are [here](https://www.duelink.com/docs/products/sptree-b) on the DUELink website. 
 
-Plug it your tree and enjoy the preloaded demo. Then you can try any of the examples below, as is, or **change them** any way you like! 
+Don't have a DUELink Holiday Tree yet? Get yours Today!
+<a href="https://www.amazon.com/dp/B0FY72K8NW?maas=maas_adg_AD869D7B02A65ED7E59E323E2386638C_afap_abs&ref_=aa_maas&tag=maas" target="_blank"><img src="./img/amazon-btn.png" alt="Amazon button"></a>
 
-Don't have a DUELink Holiday Tree? Gt yours on Amazon  <a href="https://www.amazon.com/dp/B0FY72K8NW?maas=maas_adg_AD869D7B02A65ED7E59E323E2386638C_afap_abs&ref_=aa_maas&tag=maas" target="_blank"><img src="./img/amazon-btn.png" alt="Amazon button"></a>
+Plug your tree using the included USB cable and enjoy the preloaded demo. Then you can try any of the examples below, as is, or **change them** any way you like! 
+
 
 To load a project: Click ➡ Connect ➡ Run!
 
