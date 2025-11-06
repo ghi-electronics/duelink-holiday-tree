@@ -20,7 +20,7 @@ To load a project:
 
 Demos (Drag into MicroBlocks) | Functionality
 --- | ---
-[Default Project Demo](https://microblocks.fun/run-pilot/microblocks.html?project=https://holidaytree.duelink.com/code/demo.udp) | This is default project demo. Press the LDR button to jingle again.
+[Default Project Demo](https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/demo.ubp) | This is default project demo. Press the LDR button to jingle again.
 <img src="./code/demo.png" alt="demo" height="250"> | This is default demo. Press the LDR button to jingle again.
 <img src="./code/random.png" alt="random" height="250"> | Simplest program to blink the LEDs Randomly.
 <img src="./code/pulsar.png" alt="pulsar" height="250"> | The top emitting star is very bright!
