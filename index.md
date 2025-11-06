@@ -107,4 +107,4 @@ Curious on how products are developed? Here are some videos of us working on thi
 [![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/1.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA) | Designing the Holiday Tree. Going from an idea to an actual product.
 [![Manufacturing the tree](https://img.youtube.com/vi/2INa95NzI_o/1.jpg)](https://www.youtube.com/watch?v=2INa95NzI_o) | Manufacturing the Holiday Tree. Going from a raw PCB to a working product.
 [![Troubleshooting the tree](https://img.youtube.com/vi/QhicKo7V5Vs/1.jpg)](https://www.youtube.com/watch?v=QhicKo7V5Vs) | Troubleshooting the Holiday Tree. Things don't usually just work the first time!
-[![The cutest tree](https://img.youtube.com/vi/xw6P_5qS9cI/1.jpg)](https://www.youtube.com/watch?v=xw6P_5qS9cI) | The Cutest Holiday Tree. by Selena. How Ghizzy came about, and partnering up with MicroBlocks.
+[![The cutest tree](https://img.youtube.com/vi/xw6P_5qS9cI/1.jpg)](https://www.youtube.com/watch?v=xw6P_5qS9cI) | The cutest Holiday Tree by Selena, how Ghizzy came about, and partnering up with MicroBlocks.
