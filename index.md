@@ -26,6 +26,27 @@ To load a project: Click ➡ Connect ➡ Run!
 [![Spaceship](https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg)](https://www.youtube.com/watch?v=LGzNn5Sy9r0) | [Spaceship](https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/spaceship.ubp) | Rotate on all sides and make a buzzing noise. We call this a tree spaceship!
 [![Twinkle](https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg)](https://www.youtube.com/watch?v=LGzNn5Sy9r0) | [Twinkle](https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/twinkle.ubp) | Some "Twinkle" notes!
 
+
+
+<table>
+  <tr>
+    <th>📽 Video</th>
+    <th>Project Link</th>
+    <th>Functionality</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=LGzNn5Sy9r0"><img src="https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg" alt="Default Project Demo" width="100" height="132"></a></td>
+    <td><a href="https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/demo.ubp" target="_blank">Default Project Demo</a></td>
+    <td>This is default project demo. Press the LDR button to jingle again</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
+
 ---
 
 ## What is MicroBlocks?

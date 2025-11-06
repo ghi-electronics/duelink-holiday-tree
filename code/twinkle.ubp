@@ -3,37 +3,58 @@ author unknown
 version 1 0 
 description ''
 
-script 133 66 {
+  spec ' ' 'Twinkle' 'Twinkle'
+
+to Twinkle {
+  due_tree_setled_all 0 0 0 50
+  due_tree_show
+  waitMillis 70
+  due_tree_setled_all 0 0 0 50
+  due_tree_setled_id 11 100 100 100 50
+  due_tree_setled_id 4 100 100 100 50
+  due_tree_show
+  waitMillis 30
+}
+
+script 291 238 {
 whenStarted
-due_tree_beep
-waitMillis 500
-'play tone' 'nt;g' 0 500
-waitMillis 100
-'play tone' 'nt;g' 0 500
-waitMillis 100
-'play tone' 'nt;d' 1 500
-waitMillis 100
-'play tone' 'nt;d' 1 500
-waitMillis 100
-'play tone' 'nt;e' 1 500
-waitMillis 100
-'play tone' 'nt;e' 1 500
-waitMillis 100
-'play tone' 'nt;d' 1 1000
-waitMillis 100
-'play tone' 'nt;c' 1 500
-waitMillis 100
-'play tone' 'nt;c' 1 500
-waitMillis 100
-'play tone' 'nt;b' 0 500
-waitMillis 100
-'play tone' 'nt;b' 0 500
-waitMillis 100
-'play tone' 'nt;a' 0 500
-waitMillis 100
-'play tone' 'nt;a' 0 500
-waitMillis 100
-'play tone' 'nt;g' 0 1000
+forever {
+  if (due_tree_button) {
+    'play tone' 'nt;g' 0 500
+    Twinkle
+    'play tone' 'nt;g' 0 500
+    Twinkle
+    'play tone' 'nt;d' 1 500
+    Twinkle
+    'play tone' 'nt;d' 1 500
+    Twinkle
+    'play tone' 'nt;e' 1 500
+    Twinkle
+    'play tone' 'nt;e' 1 500
+    Twinkle
+    'play tone' 'nt;d' 1 1000
+    Twinkle
+    'play tone' 'nt;c' 1 500
+    Twinkle
+    'play tone' 'nt;c' 1 500
+    Twinkle
+    'play tone' 'nt;b' 0 500
+    Twinkle
+    'play tone' 'nt;b' 0 500
+    Twinkle
+    'play tone' 'nt;a' 0 500
+    Twinkle
+    'play tone' 'nt;a' 0 500
+    Twinkle
+    'play tone' 'nt;g' 0 1000
+    Twinkle
+  }
+  Twinkle
+}
+}
+
+script 686 376 {
+to Twinkle {}
 }
 
 
