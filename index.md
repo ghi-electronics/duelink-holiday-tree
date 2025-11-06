@@ -8,19 +8,17 @@ This page is a `Getting Started` page for `DUELink Holiday Tree`. The full produ
 
 Plug it your tree and enjoy the preloaded demo. Then you can try any of the examples below, as is, or **change them** any way you like! 
 
-To load a project:
-1. Click on one of the links below to load the desired project into MicroBlocks. We explain what MicroBlocks is later on this page.
-2. Click **Connect** on teh top right corner. Then select the `USB` option.
-3. You should have one option only but if more than one then select the `DUELink` device. While not likely to happen, if you do not see a `DUELink` device then you need to reload the MicroBlocks firmware. This is explained later on this page.
-4. Click the "Run" triangle and enjoy!
+To load a project: Click → Connect → Run!
 
----
+1. **Click** on one of the links below to load the desired project into MicroBlocks. We explain what MicroBlocks is later on this page.
+2. Click **Connect** on the top right corner. Then select the `USB` option. From the new window, select `DUELink`. 
+    2. While not likely to happen, if you do not see a `DUELink` device then you need to reload the MicroBlocks firmware. This is explained later on this page.
+3. Click the **Run** triangle and enjoy!
 
-## Example Blocks
+Video | Project | Functionality
+--- | --- | ---
+<iframe width="720" height="576" src="https://www.youtube.com/embed/LGzNn5Sy9r0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | [Default Project Demo](https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/demo.ubp) | This is default project demo. Press the LDR button to jingle again.
 
-Demos (Drag into MicroBlocks) | Functionality
---- | ---
-[Default Project Demo](https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/demo.ubp) | This is default project demo. Press the LDR button to jingle again.
 <img src="./code/demo.png" alt="demo" height="250"> | This is default demo. Press the LDR button to jingle again.
 <img src="./code/random.png" alt="random" height="250"> | Simplest program to blink the LEDs Randomly.
 <img src="./code/pulsar.png" alt="pulsar" height="250"> | The top emitting star is very bright!
