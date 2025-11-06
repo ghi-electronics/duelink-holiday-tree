@@ -7,8 +7,9 @@ script 133 66 {
 whenStarted
 forever {
   due_tree_clearled_all
+  comment 'We have 26 lights!'
   for index 26 {
-    due_tree_setled_id index ((random 0 1) * 100) ((random 0 1) * 100) ((random 0 1) * 100) 20
+    due_tree_setled_id index (random 0 50) (random 0 50) (random 0 50) 20
   }
   due_tree_show
   waitMillis 500
