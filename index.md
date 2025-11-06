@@ -35,7 +35,7 @@ To load a project: Click ➡ Connect ➡ Run!
     <th>Functionality</th>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=LGzNn5Sy9r0"><img src="https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg" alt="Default Project Demo" width="100" height="132"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=LGzNn5Sy9r0" target="_blank"><img src="https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg" alt="Default Project Demo"></a></td>
     <td><a href="https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/demo.ubp" target="_blank">Default Project Demo</a></td>
     <td>This is default project demo. Press the LDR button to jingle again</td>
   </tr>
