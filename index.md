@@ -1,4 +1,4 @@
-![Logo](./img/duelinklogo.png)
+<p style="text-align:center;">![Logo](./img/duelinklogo.png)</p>
 
 # DUELink Holiday Tree
 
