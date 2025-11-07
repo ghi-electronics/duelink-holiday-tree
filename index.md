@@ -12,7 +12,7 @@ Don't have a DUELink Holiday Tree yet? Get yours today!<br>
 </p>
 
 
-Plug your tree using the included USB cable and enjoy the preloaded demo. Then you can try any of the examples below as is, or **change them** any way you like! 
+Plug your tree using the included USB cable and enjoy the preloaded demo. You can use anything USB to power it up: PC, phone charger, or power bank. Then you can try any of the examples below as is, or **change them** any way you like! 
 
 To load a project: **Click** ➡ **Connect** ➡ **Run**!
 
