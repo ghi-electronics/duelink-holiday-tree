@@ -23,7 +23,7 @@ Connect the two **X** connectors using the included DUELink cable.
 
 ![x](./img/x-connection.png)
 
-Power up the up the tree using PC, phone charger, or a power bank to enjoy the preloaded demo. Then use any computer to load any of the demo projects below as is, or **change them** any way you like!
+Power up the tree using a PC, phone charger, or power bank and enjoy the preloaded demo. Then use any computer to load one of the demo projects below as is, or **change it** any way you like!
 
 To load a project: **Click** ➡ **Connect** ➡ **Run**!
 
