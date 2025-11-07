@@ -11,8 +11,19 @@ Don't have a DUELink Holiday Tree yet? Get yours today!<br>
 <a href="https://www.amazon.com/dp/B0FY72K8NW?maas=maas_adg_AD869D7B02A65ED7E59E323E2386638C_afap_abs&ref_=aa_maas&tag=maas" target="_blank"><img src="./img/amazon-btn.png" alt="Amazon button" width="200"></a>
 </p>
 
+---
 
-Plug your tree using the included USB cable and enjoy the preloaded demo. You can use anything USB to power it up: PC, phone charger, or power bank. Then you can try any of the examples below as is, or **change them** any way you like! 
+## Instructions
+
+Slide the two circuit boards together, ensure that the **X** connector on both boards is on the same side.
+
+![Assemble Tree](./img/assemble-tree.png)
+
+Connect the two **X** connectors using the included DUELink cable. 
+
+![x](./img/x-connection.png)
+
+Power up the up the tree using PC, phone charger, or a power bank to enjoy the preloaded demo. Then use any computer to load any of the demo projects below as is, or **change them** any way you like!
 
 To load a project: **Click** ➡ **Connect** ➡ **Run**!
 
@@ -58,7 +69,6 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
     <td>Push the LDR button to play some "Twinkle" notes!</td>
   </tr>
 </table>
-
 
 ---
 
