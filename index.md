@@ -33,27 +33,27 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
     <td>This is default project demo. Press the LDR button to jingle again.</td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=LGzNn5Sy9r0" target="_blank"><img src="https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg" alt="Default Project Demo"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=Xs3E3dVPmPQ" target="_blank"><img src="https://img.youtube.com/vi/Xs3E3dVPmPQ/1.jpg" alt="Default Project Demo"></a></td>
     <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/random.ubp" target="_blank">Random Light Show</a></td>
     <td>Simplest program to blink the LEDs randomly.</td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=LGzNn5Sy9r0" target="_blank"><img src="https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg" alt="Default Project Demo"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=tsRf1ZJLJpE" target="_blank"><img src="https://img.youtube.com/vi/tsRf1ZJLJpE/1.jpg" alt="Default Project Demo"></a></td>
     <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/pulsar.ubp" target="_blank">Pulsating Star</a></td>
     <td>The top emitting star is too bright, don't stare at it!</td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=LGzNn5Sy9r0" target="_blank"><img src="https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg" alt="Default Project Demo"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=dw0jSQW1flI" target="_blank"><img src="https://img.youtube.com/vi/dw0jSQW1flI/1.jpg" alt="Default Project Demo"></a></td>
     <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/shooting-star.ubp" target="_blank">Shooting Star</a></td>
     <td>Lights go up the tree, all the way to the star!</td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=LGzNn5Sy9r0" target="_blank"><img src="https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg" alt="Default Project Demo"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=zCWZoIyAKqY" target="_blank"><img src="https://img.youtube.com/vi/zCWZoIyAKqY/1.jpg" alt="Default Project Demo"></a></td>
     <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/spaceship.ubp" target="_blank">Spaceship</a></td>
     <td>Rotate on all sides and make a buzzing noise. We call this a tree spaceship!</td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=LGzNn5Sy9r0" target="_blank"><img src="https://img.youtube.com/vi/LGzNn5Sy9r0/1.jpg" alt="Default Project Demo"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=onjcFHMbqWk" target="_blank"><img src="https://img.youtube.com/vi/onjcFHMbqWk/1.jpg" alt="Default Project Demo"></a></td>
     <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/twinkle.ubp" target="_blank">Twinkle</a></td>
     <td>Push the LDR button to play some "Twinkle" notes!</td>
   </tr>
