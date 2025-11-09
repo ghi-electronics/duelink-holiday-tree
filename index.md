@@ -11,9 +11,8 @@ Don't have a DUELink Holiday Tree yet? Get yours today!<br>
 <a href="https://www.amazon.com/dp/B0FY72K8NW?maas=maas_adg_AD869D7B02A65ED7E59E323E2386638C_afap_abs&ref_=aa_maas&tag=maas" target="_blank"><img src="./img/amazon-btn.png" alt="Amazon button" width="200"></a>
 </p>
 
----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xw6P_5qS9cI?si=mltHlqchIC6u5d2i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Instructions
 
 Slide the two circuit boards together, ensure that the **X** connector on both boards is on the same side.
 
