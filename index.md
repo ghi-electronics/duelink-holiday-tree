@@ -12,7 +12,7 @@ Don't have a DUELink Holiday Tree yet? Get yours today!<br>
 <a href="https://www.amazon.com/dp/B0FY72K8NW?maas=maas_adg_AD869D7B02A65ED7E59E323E2386638C_afap_abs&ref_=aa_maas&tag=maas" target="_blank"><img src="./img/amazon-btn.png" alt="Amazon button" width="200"></a>
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xw6P_5qS9cI?si=mltHlqchIC6u5d2i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/xw6P_5qS9cI?si=mltHlqchIC6u5d2i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 
@@ -78,7 +78,8 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
 
 If you want to learn coding the easy way, MicroBlocks is a block-based language that is easy for beginners (9 years to adults) to program DUELink boards. A huge benefit of MicroBlocks is that it is live and interactive; users can click commands to see what they do and they can test their scripts as they work.
 
-![MicroBlocks](./img/microblocks-sample.png)
+<p style="text-align: center"><img src="./img/microblocks-sample.png"></p>
+
 
 Learn more about DUELink's [MicroBlocks support](https://www.duelink.com/docs/language/microblocks).
 
