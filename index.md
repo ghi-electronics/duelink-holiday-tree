@@ -2,8 +2,7 @@
 
 # DUELink Holiday Tree
 
-
-![Holiday Tree](./img/sptree-b-1.png)
+<p style="text-align: center"><img src="./img/sptree-b-1.png"></p>
 
 
 This page is a `Getting Started` page for `DUELink Holiday Tree`. The full product details are [here](https://www.duelink.com/docs/products/sptree-b) on the main DUELink website. Are you an educator? See how DUELink can help you [here](https://www.duelink.com/docs/educators).
