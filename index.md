@@ -13,7 +13,7 @@ Don't have a DUELink Holiday Tree yet? Get yours today!<br>
 <br>
 </p>
 
-
+---
 
 Slide the two circuit boards together, ensure that the **X** connector on both boards is on the same side.
 
