@@ -20,9 +20,8 @@ script 148 66 {
 whenStarted
 'play tone' 'nt;b' 0 50
 'attach buzzer to pin' (dueSTEM_buzzerPin)
-due_ghizzy_set_left_eye 100 0 100
-due_ghizzy_set_right_eye 100 0 100
-due_ghizzy_set_mouth true true true
+due_tree_setled_all 0 50 10 50
+due_tree_show
 forever {
   if (dueSTEM_LDR_button) {
     'play tone' 'nt;g' 0 500
