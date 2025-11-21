@@ -8,85 +8,68 @@ variables delay
   spec ' ' 'RendomLight' 'RendomLight'
 
 to Jingle {
-  delay = 5
   'play tone' 'nt;b' 1 200
-  RendomLight
   'play tone' 'nt;b' 1 200
-  RendomLight
   'play tone' 'nt;b' 1 500
-  RendomLight
   'play tone' 'nt;b' 1 200
-  RendomLight
   'play tone' 'nt;b' 1 200
-  RendomLight
   'play tone' 'nt;b' 1 500
-  RendomLight
   'play tone' 'nt;b' 1 200
-  RendomLight
   'play tone' 'nt;d' 2 200
-  RendomLight
   'play tone' 'nt;g' 1 300
-  RendomLight
   'play tone' 'nt;a' 1 100
-  RendomLight
   'play tone' 'b' 1 900
   'play tone' 'c' 2 200
-  RendomLight
   'play tone' 'c' 2 200
-  RendomLight
   'play tone' 'c' 2 300
-  RendomLight
   'play tone' 'c' 2 100
-  RendomLight
   'play tone' 'c' 2 200
-  RendomLight
   'play tone' 'b' 1 200
-  RendomLight
   'play tone' 'b' 1 200
-  RendomLight
   'play tone' 'b' 1 100
-  RendomLight
   'play tone' 'b' 1 100
-  RendomLight
   'play tone' 'b' 1 200
-  RendomLight
   'play tone' 'a' 1 200
-  RendomLight
   'play tone' 'a' 1 200
-  RendomLight
   'play tone' 'b' 1 200
-  RendomLight
   'play tone' 'a' 1 400
-  RendomLight
   'play tone' 'nt;d' 2 400
-  delay = 500
 }
 
 to RendomLight {
   for index 26 {
     due_tree_setled_id index ((random 0 1) * 100) ((random 0 1) * 100) ((random 0 1) * 100) 20
   }
-  waitMillis delay
   due_tree_show
 }
 
-script 133 66 {
+script 287 82 {
+whenBroadcastReceived 'go!'
+local 'delay' 400
+forever {
+  RendomLight
+  waitMillis delay
+}
+}
+
+script 572 85 {
+whenCondition (due_tree_button)
+Jingle
+}
+
+script 73 89 {
+whenStarted
+'_due_tree_initialize'
+due_tree_clearled_all
+sendBroadcast 'go!'
+Jingle
+}
+
+script 568 171 {
 to Jingle {}
 }
 
-script 474 406 {
-whenStarted
-due_tree_clearled_all
-Jingle
-forever {
-  RendomLight
-  if (due_tree_button) {
-    Jingle
-  }
-}
-}
-
-script 463 714 {
+script 66 340 {
 to RendomLight {}
 }
 
@@ -96,6 +79,8 @@ author GHIElectronics
 version 0 5 
 depends Tone 
 description 'DUELink Holiday Tree Library
+
+
 
 '
 variables _due_tree_array _due_tree_enabled 
@@ -176,6 +161,7 @@ version 1 10
 tags tone sound music audio note speaker 
 choices tone_NoteName 'nt;c' 'nt;c#' 'nt;d' 'nt;d#' 'nt;e' 'nt;f' 'nt;f#' 'nt;g' 'nt;g#' 'nt;a' 'nt;a#' 'nt;b' 
 description 'Audio tone generation. Make music with MicroBlocks!
+
 '
 variables _tonePin _toneInitalized _toneLoopOverhead _toneNoteNames _toneArezzoNotes _toneFrequencies 
 
@@ -197,8 +183,11 @@ variables _tonePin _toneInitalized _toneLoopOverhead _toneNoteNames _toneArezzoN
 
 to '_baseFreqForNote' note {
   comment 'Return the frequency for the given note in the middle-C octave
+
 scaled by 1000. For example, return 440000 (440Hz) for A.
+
 Note names may be upper or lower case. Note names
+
 may be followed by # for a sharp or b for a flat.'
   local 'normalized note' ('_trimmedLowercase' note)
   'normalized note' = (ifExpression ((at 1 (v 'normalized note')) == 'n') (v 'normalized note') ('[data:join]' 'nt;' (v 'normalized note')))
@@ -261,6 +250,7 @@ to '_toneLoop' scaledFreq ms {
 
 to '_trimmedLowercase' s {
   comment 'Return a copy of the given string without whitespace
+
 or periods and all lowercase.'
   local 'result' (newList (size s))
   '[data:delete]' 'all' result
