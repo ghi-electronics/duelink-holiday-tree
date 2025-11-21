@@ -2,15 +2,14 @@ module main
 author unknown
 version 1 0 
 description ''
-variables index 
 
-script 133 66 {
+script 133 82 {
 whenStarted
 forever {
   due_tree_clearled_all
   for bright ('[data:range]' 200 10 1) {
     due_tree_setled_id 4 bright bright bright 80
-    due_tree_setled_id 11 index index index 80
+    due_tree_setled_id 11 bright bright bright 80
     due_tree_show
   }
   waitMillis 10
