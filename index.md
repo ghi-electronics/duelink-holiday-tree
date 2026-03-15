@@ -29,7 +29,7 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
 
 1. **Click** on one of the project links below to load it into MicroBlocks. We explain what MicroBlocks is later on this page.
 2. Click **Connect** on the top right corner. Then select the `USB` option. From the new window, select `DUELink`. 
-    2. While not likely to happen, if you do not see a `DUELink` device, then you need to reload the MicroBlocks firmware. This is explained later on this page.
+    1. While not likely,  your board may not have the latest firmware loaded. Go to [loader.duelink.com](https://loader.duelink.com/) to load the latest MicroBlocks firmware.
 3. Click the **Run** triangle ▶ and enjoy! 🎉Congratulations, you are now a coder!
 
 <table>
@@ -106,32 +106,3 @@ The Holiday Tree is possible because of our DUELink technology. But what is DUEL
 Join our newsletter and social channels [here](https://www.duelink.com/news).
 
 We are also on the DUELink section on [our forums](https://forums.ghielectronics.com/c/duelink/31).
-
----
-
-## Reload MicroBlocks Firmware
-
-In the unlikely event that MicroBlocks software is not seeing your device, then you need to follow these steps:
-
-1. There are 2 buttons found on the board, Loader (LDR) and Reset (RST). Locate the buttons.
-2. Press and hold the LDR button while pressing and releasing RST button. Note how you need to keep holding the LDR button pressed while pressing and releasing the RST button.
-2. Go to [console.duelink.com](https://console.duelink.com/) and click `Firmware` on the top menu.
-3. Click `Connect` button. You should see `DFU in FS Mode - Paired`. Select it and click `Connect`.
-4. Select `MicroBlocks` from the `Firmware` menu.
-5. Click `Load` button. You can optionally click `Erase All` first for a complete fresh start!
-5. Click `Close`.
-
-The board is now loaded with MicroBlocks firmware, which is what the MicroBlocks software uses to communicate with the board.
-
----
-
-## The "Making of" Videos
-
-Curious on how products are developed? Here are some videos of us working on this design:
-
-📽 Video | Description
----|---
-[![Designing the tree](https://img.youtube.com/vi/CJs9tn5RxjA/1.jpg)](https://www.youtube.com/watch?v=CJs9tn5RxjA) | Designing the Holiday Tree. Going from an idea to an actual product.
-[![Manufacturing the tree](https://img.youtube.com/vi/2INa95NzI_o/1.jpg)](https://www.youtube.com/watch?v=2INa95NzI_o) | Manufacturing the Holiday Tree. Going from a raw PCB to a working product.
-[![Troubleshooting the tree](https://img.youtube.com/vi/QhicKo7V5Vs/1.jpg)](https://www.youtube.com/watch?v=QhicKo7V5Vs) | Troubleshooting the Holiday Tree. Things don't usually just work the first time!
-[![The cutest tree](https://img.youtube.com/vi/xw6P_5qS9cI/1.jpg)](https://www.youtube.com/watch?v=xw6P_5qS9cI) | The cutest Holiday Tree by Selena, how Ghizzy came about, and partnering up with MicroBlocks.
