@@ -4,8 +4,7 @@
 
 <p style="text-align: center"><img src="./img/sptree-b-1.png"></p>
 
-
-This page is a `Getting Started` page for `DUELink Holiday Tree`. The full product details are [here](https://www.duelink.com/docs/products/sptree-b) on the main DUELink website. Are you an educator? See how DUELink can help you [here](https://www.duelink.com/docs/educators).
+Welcome to your programmable holiday tree! It ships preloaded with a demo, so you can juts plug it in and enjoy the show. If you need, the full product details are [here](https://www.duelink.com/docs/products/sptree-b) on the main DUELink website.
 
 <p style="text-align:center;">
 Don't have a DUELink Holiday Tree yet? Get yours today!<br>
@@ -15,7 +14,7 @@ Don't have a DUELink Holiday Tree yet? Get yours today!<br>
 
 ---
 
-Slide the two circuit boards together, ensure that the **X** connector on both boards is on the same side.
+Let's get started. Slide the two circuit boards together, ensure that the **X** connector on both boards is on the same side.
 
 ![Assemble Tree](./img/assemble-tree.png)
 
@@ -23,7 +22,9 @@ Connect the two **X** connectors using the included DUELink cable.
 
 ![x](./img/x-connection.png)
 
-Power up the tree using a PC, phone charger, or power bank and enjoy the preloaded demo. Then use any computer to load one of the demo projects below as is, or **change it** any way you like!
+Power up the tree using a PC, phone charger, or power bank and enjoy the preloaded demo.
+
+You are now ready to load one of the demo projects below as is, or **change it** any way you like!
 
 To load a project: **Click** ➡ **Connect** ➡ **Run**!
 
@@ -69,7 +70,7 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
     <td>Push the LDR button to play some "Twinkle" notes!</td>
   </tr>
      <tr>
-    <td><a href="https://www.youtube.com/watch?v=SRl_iSj7iYo" target="_blank"><img src="https://img.youtube.com/vi/SRl_iSj7iYo/1.jpg"></a></td>
+    <td></td>
     <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/disylink-snowy.ubp" target="_blank">Snowy Daisylink!</a></td>
     <td>Control any other daisylinked modules, such as Snowy. Note that any Daisylinked module must be loaded with the provided DUELink firmware and the module's driver.</td>
   </tr>
@@ -79,7 +80,7 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
 
 ## What is MicroBlocks?
 
-If you want to learn coding the easy way, MicroBlocks is a block-based language that is easy for beginners (9 years to adults) to program DUELink boards. A huge benefit of MicroBlocks is that it is live and interactive; users can click commands to see what they do and they can test their scripts as they work.
+MicroBlocks is a block-based language that is easy for beginners (9 years to adults) to program DUELink boards. A huge benefit of MicroBlocks is that it is live and interactive; users can click commands to see what they do and they can test their scripts as they work.
 
 <p style="text-align: center"><img src="./img/microblocks-sample.png"></p>
 
@@ -91,11 +92,11 @@ Learn more about DUELink's [MicroBlocks support](https://www.duelink.com/docs/la
 
 ![languages](./img/languages.webp)
 
-All DUELink boards work with a variety of [coding languages](https://www.duelink.com/docs/language/intro), such as [Python](https://www.duelink.com/docs/language/python) and [JavaScript](https://www.duelink.com/docs/language/javascript). Fire up your favorite IDE and start coding away!
+Just like all DUELink boards, this holiday tree works with a variety of Coding Languages, such as Python and JavaScript. The [Getting Started](https://www.duelink.com/docs/start) page has a good common DUELink starting point.
 
 ![arduino](./img/arduino-logo.webp)
 
-Using [Arduino](https://www.duelink.com/docs/hw/arduino) is another great option. The Arduino IDE can be used to write programs that run right on any DUELink module. [Daisylink](https://www.duelink.com/docs/engine/daisylink) can also be used to control other modules through the [downlink](https://www.duelink.com/docs/interface/downlink) connector.
+Using [Arduino](https://www.duelink.com/docs/hw/arduino) is another great option. The Arduino IDE can be used to write programs that run right on holiday tree.
 
 ---
 
@@ -105,4 +106,4 @@ The Holiday Tree is possible because of our DUELink technology. But what is DUEL
 
 Join our newsletter and social channels [here](https://www.duelink.com/news).
 
-We are also on the DUELink section on [our forums](https://forums.ghielectronics.com/c/duelink/31).
+Talk to us using [our forums](https://forums.ghielectronics.com/c/duelink/31).
